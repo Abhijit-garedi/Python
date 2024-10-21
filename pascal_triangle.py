@@ -6,4 +6,4 @@ def pascal_triangle(n):
     for i in range(n):
         print (tr)
         tr = [l+r for l, r in zip(tr+y, y+tr)]
-pascal_triangle(20)        
+pascal_triangle(5)        
