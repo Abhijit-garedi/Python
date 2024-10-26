@@ -8,5 +8,3 @@ class Person:
         print("Name:", self.name)
 
 person1 = Person("Alice")
-
-person1.display_name()
