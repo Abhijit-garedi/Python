@@ -2,8 +2,8 @@
 import types
 def a(x):
     yield x
-def b(x):
-    return x
+def b(y):
+    return y
 def add(x,y):
     return x+y 
 
