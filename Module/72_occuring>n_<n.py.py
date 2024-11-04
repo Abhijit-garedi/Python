@@ -24,3 +24,6 @@ print("\ncharacters of the said list of strings in whcih occurs less than:",N)
 print(result[1])
 
 
+
+
+
