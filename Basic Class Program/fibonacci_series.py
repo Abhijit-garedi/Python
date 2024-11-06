@@ -1,4 +1,4 @@
-# profram to print fibonacci series  
+# program to print fibonacci series  
 
 # SIR METHOD
 
