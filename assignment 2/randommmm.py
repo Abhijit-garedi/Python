@@ -28,3 +28,9 @@ print(n)
 import math
 a = math.factorial(4)
 print(a)
+
+#date and time
+from datetime import datetime; print(datetime.now())
+
+
+ 
