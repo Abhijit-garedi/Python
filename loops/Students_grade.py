@@ -10,13 +10,23 @@ while True:
         else:
             # Grading system 
             if marks >= 90:
-                grade = 'A'
+                grade = 'S'
+
             elif marks >= 80:
-                grade = 'B'
+                grade = 'A'
+
             elif marks >= 70:
-                grade = 'C'
+                grade = 'B'
+
             elif marks >= 60:
+                grade = 'C'
+
+            elif marks>= 50:
                 grade = 'D'
+
+            elif marks>= 40:
+                grade = 'E'    
+
             else:
                 grade = 'F'
 
