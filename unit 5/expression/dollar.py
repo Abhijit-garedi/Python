@@ -1,2 +1,3 @@
-import re 
-print(re.findall(r"awesone", "python is awesome"))
+import re
+print(re.findall(r"awesome$", "Python is awesome"))  
+# Output: ['awesome']
