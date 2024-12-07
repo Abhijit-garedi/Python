@@ -11,3 +11,5 @@ for i in l[:]:  # Iterate over a copy of the list
         l.remove(i)
 
 print(l)
+
+print(LookupError)
