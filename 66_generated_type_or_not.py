@@ -10,3 +10,8 @@ def add(x,y):
 print(isinstance(a(456),types.GeneratorType))
 print(isinstance(b(832),types.GeneratorType))
 print(isinstance(add(8,2),types.GeneratorType))
+
+# output
+# True
+# False
+# False
