@@ -13,3 +13,10 @@ print(isinstance(c().y,types.MethodType))
 print(isinstance(c().b,types.MethodType))
 print(isinstance(max,types.MethodType))
 print(isinstance(abs,types.MethodType))
+
+# output
+# True
+# True
+# True
+# False
+# False
