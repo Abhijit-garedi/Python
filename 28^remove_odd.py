@@ -9,3 +9,10 @@ for i in k :
     if i%2!=0:
         k.remove(i)
     print(k) 
+
+# output
+# enter size:2
+# 01
+# 12
+# [1, 2]
+# [2]
